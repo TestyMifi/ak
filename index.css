@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+.header {
+    width: 1600px;
+    height: 200px;
+    background: #D7D6FF;
+}
+
+.section-main {
+    background-image: url(./AK.png);
+    width: 1600px;
+    height: 502px;
+}
+
+.footer {
+    width: 1600px;
+    height: 100px;
+    background: rgba(255, 0, 0, 0.90);
+}
